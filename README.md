@@ -23,3 +23,25 @@ The Random Forest model was selected based on the evaluation carried out in the 
 - `group_pipeline.ipynb` — notebook containing the project workflow, model training, and evaluation.
 - `best_random_forest_model.pkl` — saved Random Forest model.
 
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/Kalsara25/AI-ML-Model-Training-Y2S1-.git
+   cd AI-ML-Model-Training-Y2S1-
+   
+2. Install the packages required by the notebook. For example:
+    
+   ```bash
+   pip install pandas numpy scikit-learn matplotlib seaborn jupyter
+
+3. Start Jupyter Notebook:
+
+   ```bash
+   jupyter notebook group\_pipeline.ipynb
+
+4. If the dataset is not included, obtain it from the source permitted for this project and update the dataset path in the notebook.
+
+## Limitations
+
+This is an academic project. Its results depend on the dataset, features, preprocessing, and evaluation method used. It should not be treated as a guaranteed phishing protection system.   
+
