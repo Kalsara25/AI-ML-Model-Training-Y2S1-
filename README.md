@@ -13,6 +13,8 @@ The notebook evaluates multiple classification approaches, including:
 - Random Forest
 - Support Vector Machine (SVM)
 - K-Nearest Neighbors (KNN)
+- Logistic Regression
+- Decision Tree
 
 The Random Forest model was selected based on the evaluation carried out in the project. See the notebook for the experiments and results.
 
