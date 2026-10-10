@@ -23,10 +23,3 @@ The Random Forest model was selected based on the evaluation carried out in the 
 - `group_pipeline.ipynb` — notebook containing the project workflow, model training, and evaluation.
 - `best_random_forest_model.pkl` — saved Random Forest model.
 
-## Getting Started
-
-1. Clone this repository:
-
-   ```bash
-   git clone https://github.com/YOUR-USERNAME/phishing-url-detection.git
-   cd phishing-url-detection
